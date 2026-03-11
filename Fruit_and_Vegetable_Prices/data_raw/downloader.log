@@ -1,0 +1,18 @@
+2025-05-20 00:54:22,003 - INFO - 开始爬取下载链接...
+2025-05-20 00:54:24,145 - WARNING - 未找到符合条件的下载链接
+2025-05-20 00:56:11,639 - INFO - 开始爬取下载链接...
+2025-05-20 00:56:13,422 - INFO - 找到 6 个符合条件的下载链接: ['https://ers.usda.gov/sites/default/files/_laserfiche/DataFiles/51035/fruit-2013.zip', 'https://ers.usda.gov/sites/default/files/_laserfiche/DataFiles/51035/fruit-2016.zip', 'https://ers.usda.gov/sites/default/files/_laserfiche/DataFiles/51035/fruit-2020.zip', 'https://ers.usda.gov/sites/default/files/_laserfiche/DataFiles/51035/vegetables-2013.zip', 'https://ers.usda.gov/sites/default/files/_laserfiche/DataFiles/51035/vegetables-2016.zip', 'https://ers.usda.gov/sites/default/files/_laserfiche/DataFiles/51035/vegetables-2020.zip']
+2025-05-20 00:56:13,423 - INFO - 开始下载: fruit-2013.zip
+2025-05-20 00:56:16,219 - INFO - 下载完成: fruit-2013.zip
+2025-05-20 00:56:16,220 - INFO - 开始下载: fruit-2016.zip
+2025-05-20 00:56:18,514 - INFO - 下载完成: fruit-2016.zip
+2025-05-20 00:56:18,515 - INFO - 开始下载: fruit-2020.zip
+2025-05-20 00:56:20,865 - INFO - 下载完成: fruit-2020.zip
+2025-05-20 00:56:20,866 - INFO - 开始下载: vegetables-2013.zip
+2025-05-20 00:56:23,381 - INFO - 下载完成: vegetables-2013.zip
+2025-05-20 00:56:23,382 - INFO - 开始下载: vegetables-2016.zip
+2025-05-20 00:56:25,846 - INFO - 下载完成: vegetables-2016.zip
+2025-05-20 00:56:25,847 - INFO - 开始下载: vegetables-2020.zip
+2025-05-20 00:56:28,138 - INFO - 下载完成: vegetables-2020.zip
+2025-05-20 00:56:28,138 - INFO - 下载任务完成
+2025-05-20 16:30:23,050 - INFO - NumExpr defaulting to 8 threads.
