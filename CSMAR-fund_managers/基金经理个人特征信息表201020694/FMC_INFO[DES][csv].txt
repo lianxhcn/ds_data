@@ -1,0 +1,20 @@
+FundManagerID [基金经理ID] - 
+Funmager [基金经理姓名] - 
+Gender [性别] - 
+BirthDate [出生日期] - 
+NationalityCode [国籍编码] - 
+Nationality [国籍] - 
+DegreeID [最高学历ID] - 1=博士研究生;2=硕士研究生;3=本科;4=MBA/EMBA;5=大专;6=中专及中专以下;7=其他（以其他形式公布的学历，如荣誉博士、函授等）。
+Degree [最高学历] - 
+Major [专业] - 最高学历对应的专业
+MajorChara [专业背景] - 1=理工科;2=MBA/EMBA;3=工商管理;4=财务;5=金融;6=其他经管类专业;7=其他
+UniversityID [毕业院校ID] - 
+University [毕业院校] - 最高学历对应的毕业院校
+IsInternationalSchool [是否国际名校] - 1=是;0=否；参考QS世界大学排名
+Is985Universities [是否985院校] - 1=是;0=否
+Is211Universities [是否211院校] - 1=是;0=否
+OveseaBack [海外背景] - 1=海外任职，2=海外求学，3=外国国籍。
+PoliticalBack [政治背景] - 1=有政治背景；0=无政治背景。
+Certificate [专业资格证书] - CFA、CPA、FRM，两个及两个以上专业资格证书用英文逗号隔开。
+BusinessDuration [证券从业年限] - 
+Resume [个人简历] - 
